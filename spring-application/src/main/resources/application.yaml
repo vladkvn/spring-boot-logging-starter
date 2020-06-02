@@ -1,0 +1,16 @@
+server:
+  port: 8098
+
+
+aggregation:
+  logging:
+    paths: /test,
+#    getIncludeQueryString: true
+#    afterMessagePrefix: \\n\\---------------------request end---------------------
+#    afterMessageSuffix: \\n\\-----------------------------------------------------
+#    beforeMessagePrefix: \\n\\---------------------request start---------------------
+#    beforeMessageSuffix: \\n\\-------------------------------------------------------
+#    includeClientInfo: false
+#    includeHeaders: true
+#    includePayload: true
+#    maxPayloadLength: 2048
